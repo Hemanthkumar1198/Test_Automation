@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-05T12:02:45 IST" name="Login Test Suite" finished-at="2025-03-05T12:03:00 IST" duration-ms="14621">
+    <groups>
+    </groups>
+    <test started-at="2025-03-05T12:02:45 IST" name="Login Tests" finished-at="2025-03-05T12:03:00 IST" duration-ms="14621">
+      <class name="tests.LoginTests">
+        <test-method is-config="true" signature="setupExtentReport()[pri:0, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:45 IST" name="setupExtentReport" finished-at="2025-03-05T12:02:45 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupExtentReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:45 IST" name="setup" finished-at="2025-03-05T12:02:49 IST" duration-ms="3875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testValidLogin()[pri:1, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:49 IST" name="testValidLogin" finished-at="2025-03-05T12:02:50 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:50 IST" name="teardown" finished-at="2025-03-05T12:02:53 IST" duration-ms="2994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:53 IST" name="setup" finished-at="2025-03-05T12:02:56 IST" duration-ms="2911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testEmptyFields()[pri:2, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:56 IST" name="testEmptyFields" finished-at="2025-03-05T12:02:56 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyFields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:56 IST" name="teardown" finished-at="2025-03-05T12:02:56 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:56 IST" name="setup" finished-at="2025-03-05T12:02:59 IST" duration-ms="2978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testIncorrectPassword()[pri:3, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:02:59 IST" name="testIncorrectPassword" finished-at="2025-03-05T12:03:00 IST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncorrectPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:03:00 IST" name="teardown" finished-at="2025-03-05T12:03:00 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:tests.LoginTests@36ebc363]" started-at="2025-03-05T12:03:00 IST" name="generateReport" finished-at="2025-03-05T12:03:00 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- tests.LoginTests -->
+    </test> <!-- Login Tests -->
+  </suite> <!-- Login Test Suite -->
+</testng-results>
